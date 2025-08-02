@@ -1,4 +1,7 @@
-Email Header Analysis Project
+# Email-Header-Analysis
+Analyzing an email header to identify potential security threats, specifically phishing attempts
+
+# Email Header Analysis Project
 This project serves as a practical example and a guide for analyzing an email header to identify potential security threats, specifically phishing attempts. By examining key fields within the header, we can determine the email's authenticity, its origin, and any inconsistencies that may indicate malicious intent.
 
 The analysis is based on a real email header provided for a training registration.
